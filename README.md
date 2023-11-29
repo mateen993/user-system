@@ -56,24 +56,19 @@ Before you begin, ensure you have the following installed on your machine:
    git clone https://github.com/your-username/user-management-system.git
 Change into the project directory:
 
-bash
-Copy code
+
 cd user-management-system
 Backend Setup
 Navigate to the backend directory:
 
-bash
-Copy code
+
 cd backend
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Run the backend server:
 
-bash
-Copy code
 npm start
 The server will run at http://localhost:5000.
 
