@@ -24,8 +24,8 @@ Navigate to the backend directory:
 ```  cd backend ```
 
 ## Install dependencies:
- ```bash npm install ```
-``` Run the backend server:
+ ``` npm install ```
+
 
 
 ``` npm start ```
