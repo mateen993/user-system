@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Clone the repository:
 
-   ```bash git clone https://github.com/mateen993/user-system ```
+   ``` git clone https://github.com/mateen993/user-system ```
 
   
 
@@ -40,6 +40,8 @@ Navigate to the frontend directory:
 
 
 ``` cd frontend ```
+
+
 Install dependencies:
 ```npm install ```
 Run the frontend development server:
@@ -48,6 +50,18 @@ Run the frontend development server:
 The React app will be accessible at http://localhost:5173 
 
 The backend API is hosted at ## http://localhost:5000/api/users
+
+
+
+## Screenshots  
+
+![image](https://github.com/mateen993/user-system/assets/105978906/671a644f-357e-42b1-b65a-81a59abdcb5f)
+
+![image](https://github.com/mateen993/user-system/assets/105978906/57a99744-4b85-40d6-ae4d-8cc9055238b9)
+
+![added](https://github.com/mateen993/user-system/assets/105978906/f28c48da-1453-4159-a7e0-d8a91d58b6c5)
+
+
 
 
    
